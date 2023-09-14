@@ -1,4 +1,4 @@
-# Convolutional_Neural_Network
+# Convolutional Neural Network
 
 This project serves as a comprehensive guide, empowering you with the knowledge and skills to harness the formidable capabilities of Convolutional Neural Networks (CNNs) through the dynamic combination of Keras and TensorFlow. Its primary goal is to demystify the process of making a singular yet impactful classification prediction, unleashing the full potential of cutting-edge deep learning technology.
 
